@@ -1,8 +1,7 @@
-hola
-que tal
-me llamo
-Alejandro
-Serrano
-García
- 
-loco
+Hola Sergio
+
+Estoy leyendo de un fichero en Java
+Puedes intentarlo desde otro lenguaje
+
+Sergio L.
+Fin del ejercicio
